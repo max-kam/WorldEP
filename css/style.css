@@ -10,9 +10,12 @@ body {
   }
 
 
+.carousel-caption {
+    max-width: 100%;
+    width:100%;
+    background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5));
+    left: 0;
+}
 
-  /* .w-100 {
-    width: 100% !important;
-    height: 75vh;
-  } */
+
 
