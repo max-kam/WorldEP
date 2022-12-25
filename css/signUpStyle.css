@@ -1,0 +1,20 @@
+
+.logo-image:link {
+    text-decoration: none;
+    color: inherit;
+  }
+  
+  .logo-image:visited {
+    text-decoration: none;
+    color: inherit;
+  }
+  
+  .logo-image:hover {
+    text-decoration: none;
+    color: inherit;
+  }
+  
+  .logo-image:active {
+    text-decoration: none;
+    color: inherit;
+  }
